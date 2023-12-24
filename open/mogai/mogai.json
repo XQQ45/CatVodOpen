@@ -72,19 +72,7 @@
       "key": "肉视频",
       "name": "肉视频",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/XQQ45/CatVodOpen/main/open/mogai/rou.json",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
-    {
-      "key": "xvideos",
-      "name": "xvideos",
-      "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/XQQ45/CatVodOpen/main/open/mogai/xvideos.json",
+      "api": "https://rou.video/v?api.php/provide/vod",
       "searchable": 1,
       "recordable": 0,
       "style": {
